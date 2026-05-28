@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authretch",
+        "uuid": 33947931,
+        "checksum": "kv8y4j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
